@@ -190,7 +190,7 @@ STRINGS:
 
   pm_menu:
     start_hi_group: 'Hey there! My name is Daisy'
-    start_hi: "Hey there! My name is <b>Daisy.</b>\nI can help manage your groups with useful features, feel free to add me to your groups!"
+    start_hi: "Hey ,😙 ഉണ്ണി ഞാൻ HN MEDIA യുടെ എല്ലാം എല്ലാം ആണ്.....😎 എന്നെ നിന്റെ ഗ്രൂപ്പിലേക്ക് കൊണ്ട് പോവാൻ കഴിയില്ല കരണം ഞാൻ 😏 HN MEDIA ക്ക് മാത്രം സ്വന്തം..!!!"
     btn_source: "📜 Source code"
     btn_help: "❔ Help"
     btn_lang: "🇺🇸 Language"
@@ -322,8 +322,7 @@ STRINGS:
     finfo_text: |
       <b>Federation info</b>
       <b>Name:</b> {name}
-      <b>ID:</b> <code>{fed_id}</code>
-      <b>Creator:</b> {creator}
+      <b>ID:</b> <code>{fed_id}</code> 
       <b>Chats in the fed:</b> {chats}
       <b>Banned users in the fed:</b> {fbanned}
 
