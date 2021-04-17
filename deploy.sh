@@ -2,9 +2,10 @@
 echo "
 *********** STARTING DEPLOY ***********
 
-DAISYX v2 -Base Aiogram
-(C) 2020-2021 by @TEAMDAISYX
-Support Chat is @DAISYSUPPORT_OFFICIAL.
+Bot v2 -Base Aiogram
+(C) 2020-2021
+Recoded by @VKPROJECTS For @HNMED
+Support Chat is @VKPROJECTS.
 
 ***************************************
 "
@@ -33,14 +34,13 @@ ech_final () {
 DAISYX. Deployed Successfully
 
  ***************************
- * |D| |A| |I| |S| |Y| |X| *
+ * BOT RECODED BY @Vivek_Kerala *
  ******************* v2.0 ** 
 
-Thanks for deploying DaisyX
-(C) 2020-2021 by @TEAMDAISYX
-Support Chat is @DAISYSUPPORT_OFFICIAL.
+Thanks for deploying My Repo
+(C) 2020-2021 ReCodeD By @Vivek_Kerala
 =++---------------------------------------------++=
-                       Greetings from dev team :)
+                       Greetings from dev team @Vivek_Kerala :)
     "
 }
 
